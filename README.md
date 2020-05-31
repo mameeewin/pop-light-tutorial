@@ -43,7 +43,7 @@ Try in Your Microbit
 > Open this page at [https://mameeewin.github.io/pop-light-tutorial/](https://mameeewin.github.io/pop-light-tutorial/)
 
 ## Tutorial
-*[tutorial](/tutorial)
+*[tutorial](/Pop Light Tutorial/tutorial)
 
 This repository can be added as an **tutorial** in MakeCode.
 
