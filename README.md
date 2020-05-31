@@ -42,9 +42,10 @@ Try in Your Microbit
 
 > Open this page at [https://mameeewin.github.io/pop-light-tutorial/](https://mameeewin.github.io/pop-light-tutorial/)
 
-## Use as Extension
+## Tutorial
+*[tutorial](/tutorial)
 
-This repository can be added as an **extension** in MakeCode.
+This repository can be added as an **tutorial** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
@@ -59,12 +60,6 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/mameeewin/pop-light-tutorial** and click import
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/mameeewin/pop-light-tutorial/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
