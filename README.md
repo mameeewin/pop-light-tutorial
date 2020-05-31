@@ -44,7 +44,7 @@ Try in Your Microbit
 
 ## Tutorial
 
-* [start](/Pop Light Tutorial/tutorial) [Tutorial](/https://makecode.microbit.org/beta#tutorial:github:mameeewin/pop-light-tutorial/Tutorial)
+*  [Tutorial](/https://makecode.microbit.org/beta#tutorial:github:mameeewin/pop-light-tutorial/Tutorial)
 
 This repository can be added as an **tutorial** in MakeCode.
 
